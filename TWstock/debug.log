@@ -1,0 +1,4 @@
+[0315/000449.795:ERROR:process_reader_win.cc(123)] NtOpenThread: {拒絕存取} 程序已請求存取一物件，但未被授與存取權。 (0xc0000022)
+[0315/000449.801:ERROR:exception_snapshot_win.cc(98)] thread ID 5060 not found in process
+[0315/000449.832:ERROR:process_reader_win.cc(123)] NtOpenThread: {拒絕存取} 程序已請求存取一物件，但未被授與存取權。 (0xc0000022)
+[0315/000449.832:ERROR:exception_snapshot_win.cc(98)] thread ID 4852 not found in process
